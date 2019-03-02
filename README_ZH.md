@@ -2,7 +2,7 @@
 这是一个RSS订阅源图书馆，包含了中文和英文的各种新闻、杂志、博客、网站、公众号的RSS订阅源。
 
 欢迎各位更新此图书馆！
-
+[English version](RssFeedLib/README_EN.md)
 ## 知乎
 - 知乎日报: http://feedmaker.kindle4rss.com/feeds/zhihu-daily.xml
 - 知乎每日精选: http://www.zhihu.com/rss
