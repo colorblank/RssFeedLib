@@ -1,7 +1,112 @@
 # RssFeedLib
-This is an rss feed library including Chinese and English magzines, news,websites,blogs feed.
+This is an rss feed library including Chinese and English magzines, news,websites,blogs rss feed.
 
 Welcome to update!
+
+## The New Yorker
+- News: http://feedmaker.kindle4rss.com/feeds/news.newyorker.com.xml
+- Culture: http://feedmaker.kindle4rss.com/feeds/culture.newyorker.com.xml
+- Science & Tech: http://feedmaker.kindle4rss.com/feeds/tech.newyorker.com.xml
+- Books & Fiction: http://feedmaker.kindle4rss.com/feeds/books.newyorker.com.xml
+- Business: http://feedmaker.kindle4rss.com/feeds/business.newyorker.com.xml
+- Humor: http://feedmaker.kindle4rss.com/feeds/humor.newyorker.com.xml
+
+
+## The Economist
+- US Politics: http://feedmaker.kindle4rss.com/feeds/us-politics.economist.com.xml
+- China Politics: http://feedmaker.kindle4rss.com/feeds/china-politics.economist.com.xml
+- Business & Finance: http://feedmaker.kindle4rss.com/feeds/business-finance.economist.com.xml
+- Economics: http://feedmaker.kindle4rss.com/feeds/economics.economist.com.xml
+- Science & Technology: http://feedmaker.kindle4rss.com/feeds/science-technology.economist.com.xml
+- Culture: http://feedmaker.kindle4rss.com/feeds/culture.economist.com.xml
+
+
+## TIME
+- Top Stories: http://feeds2.feedburner.com/time/topstories
+- News: http://time.com/newsfeed/feed/
+
+
+## WIRED
+- WIRED / Top Stories: http://feedmaker.kindle4rss.com/feeds/top-stories.wired.xml
+- WIRED / Business: http://feedmaker.kindle4rss.com/feeds/business.wired.xml
+- WIRED / Design: http://feedmaker.kindle4rss.com/feeds/design.wired.xml
+- WIRED / Tech: http://feedmaker.kindle4rss.com/feeds/gear.wired.xml
+- WIRED / Science: http://feedmaker.kindle4rss.com/feeds/science.wired.xml
+- WIRED / Security: http://feedmaker.kindle4rss.com/feeds/security.wired.xml
+
+
+## Technology
+- Gizmodo: http://gizmodo.com/rss
+- Ars Technica: http://feeds.arstechnica.com/arstechnica/index/
+- Motherboard: http://motherboard.vice.com/en_us/rss
+- BuzzFeed Tech: http://www.buzzfeed.com/tech.xml
+- ExtremeTech: http://www.extremetech.com/feed
+- 9to5Mac: http://9to5mac.com/feed/
+- O'Reilly Radar: http://feeds.feedburner.com/oreilly/radar/atom
+
+
+## Business
+- Quartz: http://qz.com/feed/
+- Businessweek: http://feedmaker.kindle4rss.com/feeds/bloomberg.xml
+- Priceonomics Blog: http://blog.priceonomics.com/latest.rss
+- Zero Hedge: http://feeds.feedburner.com/zerohedge/feed
+- CNN Money: http://rss.cnn.com/rss/money_topstories.rss
+- Business Insider: http://feeds2.feedburner.com/businessinsider
+
+
+## Internet
+- Daily Dot: http://www.dailydot.com/feed/summary/latest/
+- BuzzFeed: http://www.buzzfeed.com/index.xml
+- UPROXX: http://feeds.feedburner.com/uproxx/features
+- Gawker: http://feeds.gawker.com/gawker/full
+- HyperVocal: http://hypervocal.com/feed/
+- The Atlantic Wire: http://feeds.feedburner.com/TheAtlanticWire
+- Betabeat: http://betabeat.com/feed/
+- TechCrunch: http://feedproxy.google.com/TechCrunch
+- Boing Boing: http://feeds.boingboing.net/boingboing/iBag
+- MetaFilter: http://feeds.feedburner.com/Metafilter
+
+
+## News
+- The Guardian/Business: http://feedmaker.kindle4rss.com/feeds/business.theguardian.xml
+- The Guardian/World: http://feedmaker.kindle4rss.com/feeds/world.theguardian.xml
+- The Guardian/US: http://feedmaker.kindle4rss.com/feeds/us.theguardian.xml
+- CNN/Business: http://feedmaker.kindle4rss.com/feeds/business.cnn.xml
+- CNN/US: http://feedmaker.kindle4rss.com/feeds/us.cnn.xml
+- CNN/World: http://feedmaker.kindle4rss.com/feeds/world.cnn.xml
+- CNN/Tech: http://feedmaker.kindle4rss.com/feeds/tech.cnn.xml
+- Reuters: http://feeds.reuters.com/reuters/topNews
+- NYTimes: http://feedmaker.kindle4rss.com/feeds/homepage.nyt.xml
+- BBC News: http://feeds.bbci.co.uk/news/rss.xml
+- VICE: http://www.vice.com/rss
+- NPR's The Two-Way: http://www.npr.org/rss/rss.php?id=103943429
+- The Atlantic: http://feeds.feedburner.com/TheAtlantic
+- Daily Intelligencer: http://feeds.feedburner.com/nymag/intelligencer
+- The Week: http://theweek.com/home.rss
+- The Daily Beast: http://feeds.feedburner.com/thedailybeast/articles
+- Pacific Standard: http://feeds.feedburner.com/miller-mccune/main_feed
+
+
+## Science
+- Scientific American: http://rss.sciam.com/ScientificAmerican-Global
+- Discovery News: http://feeds.feedburner.com/DiscoveryNews-Top-Stories
+- Popular Science: http://www.popsci.com/rss.xml
+- LiveScience.com: http://www.livescience.com//home/feed/site.xml
+- ScienceNordic: http://sciencenordic.com/rss.xml
+- National Geographic News: http://feeds.nationalgeographic.com/ng/News/News_Main
+- I Fucking Love Science: http://www.iflscience.com/rss.xml
+
+
+## Long Reads
+- Outside Magazine: http://www.outsideonline.com/feeds/all.rss
+- Grantland: http://www.grantland.com/feed
+- The Browser: http://thebrowser.com/feed/
+- Longreads: http://longreads.com/rss
+- New Republic: http://www.newrepublic.com/rss.xml
+- The New Yorker: http://www.newyorker.com/services/rss/feeds/everything.xml
+
+
+-------
 
 ## 知乎
 - 知乎日报: http://feedmaker.kindle4rss.com/feeds/zhihu-daily.xml
@@ -344,110 +449,7 @@ Welcome to update!
 - FreeBuf.COM | 关注黑客与极客: http://www.freebuf.com/feed
 - FEX 百度 Web 前端研发部: http://fex.baidu.com/feed.xml
 
--------
 
-
-## The New Yorker
-- News: http://feedmaker.kindle4rss.com/feeds/news.newyorker.com.xml
-- Culture: http://feedmaker.kindle4rss.com/feeds/culture.newyorker.com.xml
-- Science & Tech: http://feedmaker.kindle4rss.com/feeds/tech.newyorker.com.xml
-- Books & Fiction: http://feedmaker.kindle4rss.com/feeds/books.newyorker.com.xml
-- Business: http://feedmaker.kindle4rss.com/feeds/business.newyorker.com.xml
-- Humor: http://feedmaker.kindle4rss.com/feeds/humor.newyorker.com.xml
-
-
-## The Economist
-- US Politics: http://feedmaker.kindle4rss.com/feeds/us-politics.economist.com.xml
-- China Politics: http://feedmaker.kindle4rss.com/feeds/china-politics.economist.com.xml
-- Business & Finance: http://feedmaker.kindle4rss.com/feeds/business-finance.economist.com.xml
-- Economics: http://feedmaker.kindle4rss.com/feeds/economics.economist.com.xml
-- Science & Technology: http://feedmaker.kindle4rss.com/feeds/science-technology.economist.com.xml
-- Culture: http://feedmaker.kindle4rss.com/feeds/culture.economist.com.xml
-
-
-## TIME
-- Top Stories: http://feeds2.feedburner.com/time/topstories
-- News: http://time.com/newsfeed/feed/
-
-
-## WIRED
-- WIRED / Top Stories: http://feedmaker.kindle4rss.com/feeds/top-stories.wired.xml
-- WIRED / Business: http://feedmaker.kindle4rss.com/feeds/business.wired.xml
-- WIRED / Design: http://feedmaker.kindle4rss.com/feeds/design.wired.xml
-- WIRED / Tech: http://feedmaker.kindle4rss.com/feeds/gear.wired.xml
-- WIRED / Science: http://feedmaker.kindle4rss.com/feeds/science.wired.xml
-- WIRED / Security: http://feedmaker.kindle4rss.com/feeds/security.wired.xml
-
-
-## Technology
-- Gizmodo: http://gizmodo.com/rss
-- Ars Technica: http://feeds.arstechnica.com/arstechnica/index/
-- Motherboard: http://motherboard.vice.com/en_us/rss
-- BuzzFeed Tech: http://www.buzzfeed.com/tech.xml
-- ExtremeTech: http://www.extremetech.com/feed
-- 9to5Mac: http://9to5mac.com/feed/
-- O'Reilly Radar: http://feeds.feedburner.com/oreilly/radar/atom
-
-
-## Business
-- Quartz: http://qz.com/feed/
-- Businessweek: http://feedmaker.kindle4rss.com/feeds/bloomberg.xml
-- Priceonomics Blog: http://blog.priceonomics.com/latest.rss
-- Zero Hedge: http://feeds.feedburner.com/zerohedge/feed
-- CNN Money: http://rss.cnn.com/rss/money_topstories.rss
-- Business Insider: http://feeds2.feedburner.com/businessinsider
-
-
-## Internet
-- Daily Dot: http://www.dailydot.com/feed/summary/latest/
-- BuzzFeed: http://www.buzzfeed.com/index.xml
-- UPROXX: http://feeds.feedburner.com/uproxx/features
-- Gawker: http://feeds.gawker.com/gawker/full
-- HyperVocal: http://hypervocal.com/feed/
-- The Atlantic Wire: http://feeds.feedburner.com/TheAtlanticWire
-- Betabeat: http://betabeat.com/feed/
-- TechCrunch: http://feedproxy.google.com/TechCrunch
-- Boing Boing: http://feeds.boingboing.net/boingboing/iBag
-- MetaFilter: http://feeds.feedburner.com/Metafilter
-
-
-## News
-- The Guardian/Business: http://feedmaker.kindle4rss.com/feeds/business.theguardian.xml
-- The Guardian/World: http://feedmaker.kindle4rss.com/feeds/world.theguardian.xml
-- The Guardian/US: http://feedmaker.kindle4rss.com/feeds/us.theguardian.xml
-- CNN/Business: http://feedmaker.kindle4rss.com/feeds/business.cnn.xml
-- CNN/US: http://feedmaker.kindle4rss.com/feeds/us.cnn.xml
-- CNN/World: http://feedmaker.kindle4rss.com/feeds/world.cnn.xml
-- CNN/Tech: http://feedmaker.kindle4rss.com/feeds/tech.cnn.xml
-- Reuters: http://feeds.reuters.com/reuters/topNews
-- NYTimes: http://feedmaker.kindle4rss.com/feeds/homepage.nyt.xml
-- BBC News: http://feeds.bbci.co.uk/news/rss.xml
-- VICE: http://www.vice.com/rss
-- NPR's The Two-Way: http://www.npr.org/rss/rss.php?id=103943429
-- The Atlantic: http://feeds.feedburner.com/TheAtlantic
-- Daily Intelligencer: http://feeds.feedburner.com/nymag/intelligencer
-- The Week: http://theweek.com/home.rss
-- The Daily Beast: http://feeds.feedburner.com/thedailybeast/articles
-- Pacific Standard: http://feeds.feedburner.com/miller-mccune/main_feed
-
-
-## Science
-- Scientific American: http://rss.sciam.com/ScientificAmerican-Global
-- Discovery News: http://feeds.feedburner.com/DiscoveryNews-Top-Stories
-- Popular Science: http://www.popsci.com/rss.xml
-- LiveScience.com: http://www.livescience.com//home/feed/site.xml
-- ScienceNordic: http://sciencenordic.com/rss.xml
-- National Geographic News: http://feeds.nationalgeographic.com/ng/News/News_Main
-- I Fucking Love Science: http://www.iflscience.com/rss.xml
-
-
-## Long Reads
-- Outside Magazine: http://www.outsideonline.com/feeds/all.rss
-- Grantland: http://www.grantland.com/feed
-- The Browser: http://thebrowser.com/feed/
-- Longreads: http://longreads.com/rss
-- New Republic: http://www.newrepublic.com/rss.xml
-- The New Yorker: http://www.newyorker.com/services/rss/feeds/everything.xml
 
 
 
